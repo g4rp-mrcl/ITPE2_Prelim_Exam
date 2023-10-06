@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
+My Name is Garp Angelo Marcial
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+I like playing Video Games and Watching Anime
